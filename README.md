@@ -1,8 +1,8 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Fabricio-developer)
+
 
 # Hey, I'm Fabrício! 🤙
 
-I'ma a beginner software developer, but I'm glad to be part of this incredible world that is the IT. But I never give up, always looking for ideas to make softwares with passion.
+I'ma software developer, I'm glad to be part of this incredible world that is the IT. But I never give up, always looking for ideas to make softwares with passion.
 
 
 <div>
