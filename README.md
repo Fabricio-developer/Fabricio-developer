@@ -1,6 +1,6 @@
 
 
-# Hey, I'm Fabrício! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" alt="Artist Light Skin Tone" width="25" height="25" />
+# Hey, I'm Fabrício! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />
 
 I'ma software developer, I'm glad to be part of this incredible world that is the IT. But I never give up, always looking for ideas to make softwares with passion.
 
