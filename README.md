@@ -3,9 +3,6 @@
 I'ma software developer, I'm glad to be part of this incredible world that is the IT. But I never give up, always looking for ideas to make softwares with passion.
 
 <div style="display: flex; margin-bottom:2em;" >
-  <a href="https://github.com/Fabricio-developer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabricio-developer&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-developer&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
 <img  height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-developer&theme=react&hide_border=true" />
 </div>
    
@@ -16,13 +13,17 @@ I'ma software developer, I'm glad to be part of this incredible world that is
     <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,tailwind,materialui,express,java,spring,php,figma,github,gradle,html,css,js,ts,mongodb,mysql" />
 </p>
 
-# Follow me on
+# Connect
 <div style="display: flex;" >
   <a href="https://www.linkedin.com/in/fabriciosantosdeveloper" style="margin-left: 1em" >
     <img  src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
 </div>
+
+ <a href="https://github.com/Fabricio-developer">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabricio-developer&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-developer&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
 
 <!-- - Creating stylish effects like glassmorphism at this repo. [Stylish-library](https://github.com/Fabricio-developer/stylish-library)  -->
 
